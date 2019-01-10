@@ -25,4 +25,4 @@ cd gp_interact
 jupyter notebook
 ```
 
-`gp_interact` only requires python 3 numpy and matplotlib.
+`gp_interact` only requires python 3, numpy, matplotlib and scipy.
