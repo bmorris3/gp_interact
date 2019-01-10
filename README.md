@@ -4,13 +4,13 @@
 
 A simple, interactive Gaussian process regression introduction in Python.
 
-### Getting started via Binder
+## Getting started via Binder
 
 1. Click the "Launch Binder" button above
 2. Wait for the interactive notebook to launch
 3. Start learning by reading the notebook, and executing its cells
 
-### Getting started via source code
+## Getting started via source code
 
 1. Clone the repository with 
 ```
