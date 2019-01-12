@@ -20,7 +20,11 @@ git clone https://github.com/bmorris3/gp_interact.git
 ```
 cd gp_interact
 ```
-3. Launch the notebook with the command
+3. Make sure you have the required packages installed
+```
+pip install -r requirements.txt
+```
+4. Launch the notebook with the command
 ```
 jupyter notebook
 ```
