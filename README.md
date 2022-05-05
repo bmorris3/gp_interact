@@ -1,6 +1,6 @@
 # gp_interact
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bmorris3/gp_interact/master?filepath=gp_interact.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bmorris3/gp_interact/master?labpath=gp_interact.ipynb)
 
 A simple, interactive Gaussian process regression introduction in Python.
 
