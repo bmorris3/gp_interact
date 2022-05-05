@@ -2,3 +2,4 @@ numpy>=1.14
 matplotlib>=3.0 
 scipy
 ipywidgets
+jupyterlab_widgets
